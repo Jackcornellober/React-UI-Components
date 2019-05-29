@@ -1,1 +1,16 @@
 /* All styles for your header Components live here */
+
+.body {
+    display: flex;
+}
+
+img {
+    width: 4.5%;
+    height: 4.5%;
+}
+
+.TitleContent {
+    width: 46%;
+    margin-left: 1.5%;
+    font-size: 1.35rem;
+}

@@ -1,1 +1,11 @@
 /* All styles for your Card Components live here */
+
+.myImg {
+    width: 46%;
+    height: 10%;
+    margin-left: 6%;
+}
+
+.contentDiv {
+    margin-left: 6%;
+}
