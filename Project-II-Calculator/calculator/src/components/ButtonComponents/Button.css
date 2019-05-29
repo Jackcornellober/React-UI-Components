@@ -1,0 +1,39 @@
+.numbers {
+    display: flex;
+    max-width: 18rem;
+    flex-wrap: wrap;
+    /* height: 3rem; */
+}
+
+.numbers > div {
+    width: 5.87rem;
+    font-weight: bold;
+    text-align: center;
+    height: 5rem;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+
+div.thic {
+    width: 22.5rem;
+}
+
+.numberAction {
+    display: flex;
+}
+
+.actions > div {
+    width: 5.87rem;
+    text-align: center;
+    height: 5rem;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: crimson;
+    font-size: 3rem;
+    color: white;
+}

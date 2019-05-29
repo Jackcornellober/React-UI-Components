@@ -1,0 +1,10 @@
+.display {
+    width: 24rem;
+    background: black;
+    color: white;
+    font-size: 3rem;
+    height: 5rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: middle;
+}
